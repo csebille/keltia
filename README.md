@@ -1,2 +1,2 @@
-# keltia
+# kELTia
 Tiniest ELT ever
